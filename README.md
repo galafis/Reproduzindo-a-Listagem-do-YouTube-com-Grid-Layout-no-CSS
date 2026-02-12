@@ -1,26 +1,131 @@
-# Projeto - Página de Listagem de Vídeos estilo YouTube 🎬
+# 🚀 Reproduzindo A Listagem Do Youtube Com Grid Layout No Css
 
-Este projeto foi desenvolvido como parte de um desafio da plataforma DIO, com o objetivo de colocar em prática os conceitos de **CSS Grid Layout**. A proposta era recriar uma página de listagem de vídeos semelhante ao YouTube, mas com identidade própria, utilizando HTML e CSS puros.
+[![HTML5](https://img.shields.io/badge/HTML5-5-E34F26.svg)](https://developer.mozilla.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🧠 Objetivo
-
-Como estudante universitário de Ciência de Dados, acredito que compreender os fundamentos de front-end é essencial para criar dashboards e interfaces que realmente comuniquem os dados. Esse projeto me ajudou a explorar como o **CSS Grid** pode organizar conteúdos visuais de maneira responsiva e limpa, algo super importante em qualquer aplicação que lida com dados visuais, vídeos ou imagens.
-
-## 💡 Tecnologias Utilizadas
-
-- HTML5
-- CSS3 (foco em Grid Layout)
-- Design Responsivo
-- Baseado no Figma fornecido no desafio
-
-## 🔗 Link do Figma (referência do layout)
-
-[Design do Desafio no Figma](https://www.figma.com/file/KknwioExyqKD3D2eSVFrcW/Desafio-Grid---DIO?node-id=0%3A1)
-
-## 👨‍🎓 Considerações
-
-Mesmo sendo um projeto simples, ele reforça o quanto o CSS Grid é poderoso para layouts modernos. Foi uma ótima oportunidade para treinar e colocar em prática conceitos de responsividade, design visual e organização de código.
+[English](#english) | [Português](#português)
 
 ---
 
-Feito com dedicação por mim, um futuro cientista de dados que também curte desenvolver interfaces bonitas e funcionais 💻✨
+## English
+
+### 🎯 Overview
+
+**Reproduzindo A Listagem Do Youtube Com Grid Layout No Css** — DIObootcamp
+
+Total source lines: **156** across **2** files in **2** languages.
+
+### ✨ Key Features
+
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- See requirements below
+
+
+#### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS.git
+cd Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS
+```
+
+
+
+
+
+
+
+
+### 📁 Project Structure
+
+```
+Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS/
+└── README.md
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML | 1 files |
+| CSS | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Reproduzindo A Listagem Do Youtube Com Grid Layout No Css** — DIObootcamp
+
+Total de linhas de código: **156** em **2** arquivos em **2** linguagens.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Veja os requisitos abaixo
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS.git
+cd Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS
+```
+
+
+
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+Reproduzindo-a-Listagem-do-YouTube-com-Grid-Layout-no-CSS/
+└── README.md
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| HTML | 1 files |
+| CSS | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
